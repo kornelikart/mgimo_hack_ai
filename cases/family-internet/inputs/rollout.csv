@@ -1,0 +1,9 @@
+scenario,quarter,offered,extra_created,extra_joined,avoided_group_exits,paid_m1,paid_m2,paid_m3,direct_rub,development_rub,dec_active_share_pct,q4_base_created,q4_extra_activated
+main,1,0,0,0,0,0,0,0,0,180000,0,0,0
+main,2,1750,200,120,15,0,10,20,90000,400000,0,0,0
+main,3,3200,400,220,35,70,110,150,140000,120000,0,0,0
+main,4,5000,600,360,80,220,300,380,210000,80000,65,1500,375
+downside,1,0,0,0,0,0,0,0,0,180000,0,0,0
+downside,2,1750,120,60,5,0,0,10,80000,400000,0,0,0
+downside,3,2100,130,65,12,20,30,50,120000,80000,0,0,0
+downside,4,3200,200,100,20,80,110,160,170000,0,62,1500,90
